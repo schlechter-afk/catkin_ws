@@ -1,0 +1,6 @@
+build/* linguist-documentation=false
+build/* linguist-vendored
+devel/* linguist-documentation=false
+devel/* linguist-vendored
+src/* linguist-documentation=false
+src/* linguist-vendored
