@@ -1,1 +1,8 @@
-/home/swayam/catkin_ws/devel/.private/ros_package_template/lib/pkgconfig/ros_package_template.pc
+prefix=/home/swayam/catkin_ws/devel
+
+Name: ros_package_template
+Description: Description of ros_package_template
+Version: 0.1.0
+Cflags: -I/home/swayam/catkin_ws/src/ros_best_practices/ros_package_template/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lros_package_template_core
+Requires: roscpp sensor_msgs

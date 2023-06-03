@@ -1,0 +1,2 @@
+beginner_tutorials:my_keyboard_control:my_package:robot_desc:ros_best_practices/ros_package_template
+-DCATKIN_DEVEL_PREFIX=/home/swayam/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/swayam/catkin_ws/install -G Unix Makefiles
